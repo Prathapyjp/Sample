@@ -1,0 +1,211 @@
+/* HOme Page */
+.jumbotron-first{
+	height:680px;
+	background-image: url(../images/smsbg.jpg);
+}
+.navbar-default{
+	margin-top: -40px;
+	background:none;
+	border: none;
+}
+.navbar-collapse{
+	padding:0px 0px 0px 30px;	
+}
+.navbar-nav li,a{
+	padding-left: 40px;
+}
+
+.heading-wrapper{
+	text-align: center;
+}
+.heading-wrapper h2{
+	font-size: 35px;
+	margin-top: -10px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #FFF;
+}
+
+.Testing-service{
+	margin-top: 170px;
+}
+/* Text Slider */
+.carousel-indicators{
+	margin-bottom: -180px;
+}
+.carousel-inner{
+	margin-top: 50px;
+	position: absolute;
+	text-align: center;
+}
+.carousel-inner h3{
+	color: #FFF;
+	font-size: 20px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+/* End of Text_Slider */
+
+
+.jumbotron-second{
+	margin-top:-70px;
+	height:400px;
+	background-color: #FFF;
+}
+#content h2{
+	text-align: center;
+	margin-bottom: 40px;
+	color: #FF1493;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#content h3{
+	text-align: center;
+	margin-bottom: 40px;
+	font-size: 20px;
+	color: #33041d;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.Testing-number{
+	margin-top: -30px;
+}
+.form-group input[type="text"]{
+	height:60px;
+	font-size:12px;
+	text-align: center;
+	background-color: #ffe7f4;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+.form-group button[type="button"]{
+	height: 60px;
+	font-size: 15px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+/* End Of Jumbotron Second */
+
+
+.jumbotron-third{
+	background-color: #FFF;
+	height:500px;
+}
+
+.page-header{
+	margin-top: -50px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+.AboutUs h4{
+	font-size: 30px;
+}
+.AboutUs p{
+	text-align: justify;
+	font-size: 15px;
+	font-family: 'Bree Serif', serif;
+}
+.strategy h4{
+	font-size: 30px;
+}
+.strategy p{
+	text-align: justify;
+	font-size: 15px;
+	font-family: 'Bree Serif',serif;
+}
+.mission h4{
+	font-size: 30px;
+}
+.mission p{
+	text-align: justify;
+	font-size: 15px;
+	font-family: 'Bree Serif',serif;
+}
+.servicesline{
+	margin-left:;
+	margin-top: 50px;
+}
+.servicesline #ser{
+	margin-left: 300px;
+}
+.servicesline #ser1{
+	margin-left: 150px;
+}
+
+/* Services we offer*/
+.jumbotron-fourth{
+	
+}
+.thumbnail{
+	border-radius: 15px;
+}
+.header{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	margin-top: -40px;
+	padding-bottom: 30px;
+}
+
+/*end of Services*/
+
+
+
+/* Features Page */
+
+.jumbotron-five{
+	margin-top: -30px;
+	background-image: url(../images/feature.jpg);
+	background-color:#FF1493;
+	opacity:0.7;
+}
+.jumbotron-five .header{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	margin-top: -40px;
+	padding-bottom: 30px;
+
+}
+.First-row{
+	margin-left:0px;
+	padding-bottom: 50px;
+	padding-left: 60px;
+
+}
+.second-row{
+	margin-left:0px;
+	padding-bottom: 50px;
+	padding-left: 60px;
+
+
+}
+.third-row{
+	margin-left:0px;
+	padding-bottom: 50px;
+	padding-left: 60px;
+
+}
+.jumbotron-five p{
+	font-size: 15px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+
+
+
+
+/* End Of Features Page */
+
+.jumbotron-seven{
+	background-image: url(../images/resel.jpg);
+	margin-top: -29px;
+	margin-bottom: -30px;
+}
+.reseller h2{
+	margin-top: 80px;
+	text-align: center;
+	color: #FFF;
+	font-family: 'Montserrat', sans-serif;
+}
+.reseller p{
+	text-align: center;
+	color: #FFF;
+	font-family: 'Montserrat', sans-serif;
+}
